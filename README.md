@@ -44,26 +44,6 @@ Kesimpulan:
 Dataset ini digunakan untuk menganalisis hubungan antara IPK dan durasi belajar per minggu pada mahasiswa.
 
 # Struktur repositori
-Tugas-Besar-ADS-Kel12/
-│
-├── data/
-│   └── SPS kel 12 ADS.xlsx
-│
-├── code/
-│   └── codeR_12_RA.R
-│
-├── output/
-│   ├── data_bersih_kel12.csv
-│   ├── freq_ipk_kel12.csv
-│   ├── freq_jam_kel12.csv
-│   ├── crosstab_ipk_jam_kel12.csv
-│   ├── Distribusi_IPK_kel12.png
-│   ├── Distribusi_JamBelajar_kel12.png
-│   ├── Stacked_IPK_Jam_kel12.png
-│   └── interpretasi_ringkas_kel12.txt
-│
-├── poster/
-│   └── Poster_12_RA.pdf
-│
-└── README.md
+<img width="350" height="557" alt="Screenshot 2025-11-29 002004" src="https://github.com/user-attachments/assets/31da98eb-33de-4339-b816-2fd86b794353" />
+
 
